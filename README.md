@@ -32,31 +32,10 @@ I'm a 3rd-year Computer Science student at NIET, with a passion for building sca
 
 ---
 
-### 🌟 Featured Projects
-
-- 🔗 **[LinkEdge](https://github.com/utkarshagar2121/LinkEdge)**  
-  Full-stack URL shortener with secure auth, real-time analytics, QR code generation, and role-based dashboard.
-
-- 🎥 **[StreamNexus](https://github.com/utkarshagar2121/StreamNexus)**  
-  Dockerized MERN video streaming app with watch history, subscriptions, JWT auth, and modular backend.
-
-- 🎬 **[Beyond the Watchlist](https://github.com/utkarshagar2121/Movie-Recommendation-System)**  
-  Hybrid movie recommender combining content-based and collaborative filtering with web UI.
-
-- 📁 **[SecureShare](https://github.com/utkarshagar2121/SecureShare)**  
-  FastAPI-based secure file-sharing system with role-based access, email verification, and encrypted downloads.
-
-- 🔁 **[PlaylistSync](https://github.com/utkarshagar2121/PlaylistSync)**  
-  Cross-platform playlist sync tool between YouTube Music, Apple Music, and Spotify using OAuth and metadata mapping.
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=utkarshagar2121&show_icons=true&theme=radical" alt="Utkarsh's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshagar2121&theme=radical" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshagar2121&layout=compact&theme=radical" alt="Top Languages" />
 </p>
