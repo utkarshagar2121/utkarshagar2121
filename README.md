@@ -58,6 +58,6 @@ I'm a 3rd-year Computer Science student at NIET, with a passion for building sca
 
 ---
 
-> *"If its working, Don't touch it"* 🧙‍♂️
+> *"If its working, Don't touch it in the main Branch"* 🧙‍♂️
 
 ---
