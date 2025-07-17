@@ -45,8 +45,7 @@ I'm a 3rd-year Computer Science student at NIET, with a passion for building sca
 ### 💡 Let's Connect
 
 - 📧 **Email**: utkarshagar21@gmail.com  
-- 🔗 **LinkedIn**: [utkarsh-agarwal-1b359922b](https://www.linkedin.com/in/utkarsh-agarwal-1b359922b)  
-- 💻 **Portfolio (Coming Soon)**
+- 🔗 **LinkedIn**: [utkarsh-agarwal](https://www.linkedin.com/in/utkarsh-agarwal-1b359922b)  
 
 ---
 
