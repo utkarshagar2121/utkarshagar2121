@@ -58,6 +58,6 @@ I'm a 3rd-year Computer Science student at NIET, with a passion for building sca
 
 ---
 
-> *"Code is the closest thing we have to magic — I just try to write a few good spells."* 🧙‍♂️
+> *"If its working, Don't touch it"* 🧙‍♂️
 
 ---
