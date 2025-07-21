@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Agarwal</h1>
+<h1 align="center">Hi , I'm Utkarsh Agarwal</h1>
 <h3 align="center">Full-Stack Developer | DevOps Learner | Data Science Enthusiast</h3>
 
 <p align="center">
@@ -15,13 +15,13 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I'm a 3rd-year Computer Science student at NIET, with a passion for building scalable web applications, intelligent systems, and seamless user experiences. I enjoy turning ideas into reality using code and design. Whether it’s automating workflows or deploying full-stack apps with Docker and CI/CD, I’m always excited to learn and create.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 - **Languages:** Python, Java, C++, C, TypeScript, SQL  
 - **Web Development:** React, Node.js, Express.js, FastAPI, Flask, Django  
@@ -32,7 +32,7 @@ I'm a 3rd-year Computer Science student at NIET, with a passion for building sca
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=utkarshagar2121&show_icons=true&theme=radical" alt="Utkarsh's GitHub Stats" />
@@ -42,14 +42,14 @@ I'm a 3rd-year Computer Science student at NIET, with a passion for building sca
 
 ---
 
-### 💡 Let's Connect
+###  Let's Connect
 
 - 📧 **Email**: utkarshagar21@gmail.com  
 - 🔗 **LinkedIn**: [utkarsh-agarwal](https://www.linkedin.com/in/utkarsh-agarwal-1b359922b)  
 
 ---
 
-### 🧠 Currently Learning
+###  Currently Learning
 
 - Kubernetes & Helm
 - Advanced CI/CD with GitHub Actions & Docker Swarm
@@ -58,6 +58,6 @@ I'm a 3rd-year Computer Science student at NIET, with a passion for building sca
 
 ---
 
-> *"If its working, Don't touch it in the main Branch"* 🧙‍♂️
+> *"If its working, Don't touch it in the main Branch"* 
 
 ---
